@@ -1,6 +1,3 @@
-# astronomy-projects
-
-
 # Astronomy Projects
 
 Repository untuk proyek-proyek astronomi berbasis Python, fokus pada analisis data astronomi, klasifikasi bintang, dan analisis spektral.
